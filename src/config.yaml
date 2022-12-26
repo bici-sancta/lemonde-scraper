@@ -1,0 +1,13 @@
+logging_level: DEBUG
+
+create_new_archive_links: true
+year_start: 2021
+month_start: 1
+day_start: 1
+year_end: 2022
+month_end: 12
+day_end: 23
+get_new_article_links: true
+corpus_links: '../corpus_links'
+
+n_theme: 20
